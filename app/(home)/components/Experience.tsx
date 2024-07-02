@@ -16,7 +16,7 @@ const content = [
     ),
   },
   {
-    title: "Frontend Developer",
+    title: "Frontend Developer (Freelancing)",
     companyName: "TrueVisory  (January 2024 - March 2024)",
     description:
       "Developed and maintained several React-based web applications using Redux for state management and Axios for HTTP requests. Collaborated with cross-functional teams to design and implement UI features that improved the user experience and increased engagement. Participated in code reviews and contributed to improving the overall quality and maintainability of the codebase.",
