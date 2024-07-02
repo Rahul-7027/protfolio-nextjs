@@ -6,7 +6,7 @@ import { ThemeProvider } from "@/components/theme-provider";
 const spaceGrotesk = Space_Grotesk({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-	metadataBase: new URL("https://protfolio-nextjs-rouge.vercel.app/"),
+	metadataBase: new URL("https://protfolio-nextjs-orpin.vercel.app/"),
 
 	title:"Rahul Bhati",
 	authors: {
@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 		title: "Rahul Bhati",
 		description:
     "I'm a Skilled Frontend Developer building modern web applications.",
-		url: "https://protfolio-nextjs-rouge.vercel.app/",
+		url: "https://protfolio-nextjs-orpin.vercel.app/",
 		siteName: "rahul-portfolio",
 		images: "/og.png",
 		type: "website",
